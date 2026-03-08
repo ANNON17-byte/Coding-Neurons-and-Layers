@@ -1,2 +1,2 @@
-# Coding-Neurons-and-Layers
-Coding Neurons and Layers from Scratch
+
+Coding Neural Network from Scratch
